@@ -1,13 +1,13 @@
-Stock Price Prediction Using LSTM
+## Stock Price Prediction Using LSTM
 
-Overview:
+## Overview:
 
 This project involves predicting stock prices using a Long Short-Term Memory (LSTM) model, a type of recurrent neural network (RNN) that is well-suited for time series forecasting. 
 The model is trained on historical stock price data to provide accurate predictions of future prices, which can be used for financial analysis and decision-making.
 
-Getting Started
+## Getting Started
 
-Prerequisites:
+## Prerequisites:
 
 Before you begin, ensure you have the following libraries installed:
 
@@ -19,7 +19,7 @@ TensorFlow
 Keras
 scikit-learn
 
-How It Works:
+## How It Works:
 
 Data Preprocessing: Load and preprocess the historical stock data by handling missing values, normalizing data, and splitting it into training and test datasets.
 Feature Engineering: Generate features that help the model learn and predict more effectively.
